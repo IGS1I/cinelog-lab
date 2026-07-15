@@ -2,7 +2,8 @@
 *.db
 *.db-journal
 instance/
-__pychache--/
+__pycache__/
 *.pyc
+.pytest_cache/
 .venv/
 venv/
